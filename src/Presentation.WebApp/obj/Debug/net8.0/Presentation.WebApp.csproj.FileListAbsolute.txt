@@ -229,3 +229,4 @@ C:\Users\hecto\Documents\Materias\12VO\IMP\BIM\src\Presentation.WebApp\obj\Debug
 C:\Users\hecto\Documents\Materias\12VO\IMP\BIM\src\Presentation.WebApp\obj\Debug\net8.0\Presentation.WebApp.pdb
 C:\Users\hecto\Documents\Materias\12VO\IMP\BIM\src\Presentation.WebApp\obj\Debug\net8.0\Presentation.WebApp.genruntimeconfig.cache
 C:\Users\hecto\Documents\Materias\12VO\IMP\BIM\src\Presentation.WebApp\obj\Debug\net8.0\ref\Presentation.WebApp.dll
+C:\Users\hecto\Documents\Materias\12VO\IMP\BIM\src\Presentation.WebApp\obj\Debug\net8.0\Presentation.WebApp.sourcelink.json

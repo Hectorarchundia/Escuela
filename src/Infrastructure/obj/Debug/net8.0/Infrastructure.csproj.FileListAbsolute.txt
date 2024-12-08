@@ -49,3 +49,4 @@ C:\Users\hecto\Documents\Materias\12VO\IMP\BIM\src\Infrastructure\obj\Debug\net8
 C:\Users\hecto\Documents\Materias\12VO\IMP\BIM\src\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
 C:\Users\hecto\Documents\Materias\12VO\IMP\BIM\src\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
 C:\Users\hecto\Documents\Materias\12VO\IMP\BIM\src\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\hecto\Documents\Materias\12VO\IMP\BIM\src\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
