@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2bYb5z1QLsQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hecto\\Documents\\Materias\\12VO\\IMP\\BIM\\src\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hecto\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\hecto\\.nuget\\packages\\system.drawing.common\\8.0.10\\system.drawing.common.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
